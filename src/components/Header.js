@@ -31,7 +31,7 @@ const Header = () => {
                     <span> SERIES </span>
                 </a>
             </NavMenu>
-            <UserImg src="/images/CR.png"></UserImg>
+            <UserImg src="/images/CR1.png"></UserImg>
         </Nav>
     )
 }

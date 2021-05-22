@@ -29,6 +29,9 @@ function ImgSlider() {
             <Wrap>
                 <img src="/images/slider-scales.jpg"/>
             </Wrap>
+            <Wrap>
+                <img src="/images/slider-scales2.jpg"/>
+            </Wrap>
         </Carousel>
     )
 }
